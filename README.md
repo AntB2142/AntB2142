@@ -1,11 +1,13 @@
+# Frontend-developer
+
 ### :wave: Привет, меня зовут Антон
 
-#### Коротко обо мне:
+#### :man_technologist: Коротко обо мне:
 
-- Выпускник Яндекс.Практикума
-- Нахожусь в поиске работы
+- :man_student: Выпускник Яндекс.Практикума
+- :ant: Нахожусь в поиске работы
 
-#### Мои навыки:
+#### :hammer_and_wrench: Мои навыки:
 
 ![React](https://img.shields.io/badge/-React-21232a?logo=react&logoColor=61dafb)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javaScript&logoColor=black)
@@ -24,3 +26,4 @@
 #### Контакты:
 
 - :iphone:Telegram: [t.me/antbur](https://t.me/antbur)</br>
+- :mailbox_with_mail:E-mail: 89999858913@mail.ru</br>
