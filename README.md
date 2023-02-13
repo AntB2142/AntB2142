@@ -25,5 +25,5 @@
 
 #### Контакты:
 
-- :iphone:Telegram: [t.me/antbur](https://t.me/antbur)</br>
+- :iphone:Telegram: [t.me/antb2142](https://t.me/antbur)</br>
 - :mailbox_with_mail:E-mail: 89999858913@mail.ru</br>
