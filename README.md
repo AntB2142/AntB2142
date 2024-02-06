@@ -5,7 +5,7 @@
 #### :man_technologist: Коротко обо мне:
 
 - :man_student: Выпускник Яндекс.Практикума
-- :ant: Нахожусь в поиске работы
+- :ant: [html-верстальщик в компании bono.digital](https://www.bono.digital/)
 
 #### :hammer_and_wrench: Мои навыки:
 
